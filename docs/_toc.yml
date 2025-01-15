@@ -7,11 +7,10 @@ parts:
     chapters:
       - file: notebooks/midterm.ipynb
       - file: notebooks/final.ipynb
-  - caption: Recommended Workflows
+  - caption: Project Components
     chapters:
-      - file: docs/abstract.md
-      - file: docs/literature-review.md
-      - file: docs/bibliography.md
+      - file: docs/abstract
+      - file: docs/literature-review
   - caption: Additional Resources
     chapters:
       -url: https://economics.columbian.gwu.edu/ms-applied-economics
