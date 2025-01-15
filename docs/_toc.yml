@@ -9,9 +9,9 @@ parts:
       - file: notebooks/final.ipynb
   - caption: Recommended Workflows
     chapters:
-      - file: docs/abstract
-      - file: docs/literature-review
-      - file: docs/bibliography
+      - file: docs/abstract.md
+      - file: docs/literature-review.md
+      - file: docs/bibliography.md
   - caption: Additional Resources
     chapters:
       -url: https://economics.columbian.gwu.edu/ms-applied-economics
