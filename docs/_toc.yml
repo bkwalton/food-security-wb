@@ -13,7 +13,5 @@ parts:
       - file: docs/literature-review
   - caption: Additional Resources
     chapters:
-      -url: https://economics.columbian.gwu.edu/ms-applied-economics
-        title: GWU MS in Applied Economics
       - url: https://wbdatalab.org
         title: World Bank Data Lab
