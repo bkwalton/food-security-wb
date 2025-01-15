@@ -19,7 +19,7 @@ html:
   baseurl: https://bkwalton.github.io/food-security-wb
   extra_footer: |
     <div>
-     Country borders or names do not necessarily reflect the World Bank Group’s official position. All maps are for illustrative purposes and do not imply the expression of any opinion on the part of the World Bank, concerning the legal status of any country or territory or concerning the delimitation of frontiers or boundaries
+     We are students in the MS Applied Economics program at George Washington University in Washington, D.C. Data were sourced from the World Bank and all analysis has been completed in collaboration with World Bank employees.
     </div>
     <div>
         <b>All content (unless otherwise specified) is subject to the <a href="https://www.mozilla.org/en-US/MPL">Mozilla Public License.</a></b>
