@@ -7,6 +7,7 @@ parts:
     chapters:
       - file: notebooks/midterm.ipynb
       - file: notebooks/final.ipynb
+      - file: notebooks/analysis.qmd
   - caption: Project Components
     chapters:
       - file: docs/abstract
