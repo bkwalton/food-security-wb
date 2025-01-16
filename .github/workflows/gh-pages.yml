@@ -21,12 +21,6 @@ jobs:
       - name: Build Juputer Book Documentation
         run: |
           jupyter-book build . --config docs/_config.yml --toc docs/_toc.yml
-        - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-        - name: Render and Publish Quarto
-          uses: quarto-dev/quarto-actions/publish@v2
-          with:
-            target: gh-pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         if: github.ref == 'refs/heads/main' && job.status == 'success'
